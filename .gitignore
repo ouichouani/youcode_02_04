@@ -1,0 +1,4 @@
+data/seg_pred/*
+data/seg_train/*
+models/*
+src/*
